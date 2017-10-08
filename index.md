@@ -1,4 +1,4 @@
-## Welcome to Endpoint Security Testing Workshop
+## Endpoint Security Testing Workshop
 
 You can use the [editor on GitHub](https://github.com/pinktangent/pinktangent.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
