@@ -7,6 +7,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 more test data
 
 
-more test data
 
 testing tttt
