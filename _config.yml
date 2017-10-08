@@ -3,8 +3,8 @@ title: Pink Tangent
 email: tangentmelb@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 twitter_username: pink_tangent
-#<br>Company: <a href="https://pinktangent.me/">Pink Tangent Blog
-#</a><br><img src="https://pinktangent.github.io/images/pinkie.png" alt="PinkTangent">
+#<br>Company: <a href="https://pinktangent.me/">Pink Tangent Blog</a>
+PT: <img src="https://pinktangent.github.io/images/pinkie.png">
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
