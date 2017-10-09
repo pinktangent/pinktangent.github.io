@@ -7,4 +7,4 @@ In addition to the framework, I wanted to be able to share the process involved,
 
 - ## [Endpoint Protection Testing Workshop](https://pinktangent.github.io/EPP/) ##
 
-Good Luck and enjoy. [Email me](mailto:tangentmelb@gmail.com) with any questions.
+Good luck and enjoy. [Email me](mailto:tangentmelb@gmail.com) with any questions.
