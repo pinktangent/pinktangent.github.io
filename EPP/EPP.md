@@ -3,11 +3,9 @@ layout: default
 permalink: /EPP/
 title: Endpoint Protection Testing
 ---
-[Go Back to All WorkShops](https://pinktangent.github.io)
+[Go Back to Main](https://pinktangent.github.io)
 
 # Endpoint Protection Testing #
-
-# Material #
 
 ## [Introduction](https://pinktangent.github.io/EPP/intro/) ##
 
